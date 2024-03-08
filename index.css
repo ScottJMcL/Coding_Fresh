@@ -1,0 +1,98 @@
+* {
+    font-family:cursive  ;
+    /* border:2px solid white; */
+} /* affects ALL text on page */
+
+body {
+    background-color:darkolivegreen;
+}
+
+h1 {
+    color:rgb(14, 19, 163);
+    text-align: center;
+    padding: 5px;
+    border: 3px solid lightgoldenrodyellow;
+}
+
+h2 {
+    color:rgb(14, 19, 163);
+    text-align: center;
+    padding: 5px;
+    border: 3px solid lightgoldenrodyellow;
+}
+
+#descryption {
+    padding: 10px;
+    text-align: left;
+    font-weight: bold;
+    font-size:x-large;
+    text-align: center;
+    color: antiquewhite;
+}
+
+img{
+    background-size: contain;
+    width: 150px;
+    height: auto;
+}
+
+#Farmers_Market {
+    background-size: contain;
+    width: 300px;
+    height: auto;
+}
+
+#Bell_Pepper {
+    background-size: contain;
+    width: auto;
+    height: 130px;
+}
+
+#Carrot {
+    background-size: contain;
+    width: auto;
+    height: 100px;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+    align-content: space-around;
+    column-count: 4;
+    column-gap: 10px;
+    column-rule: 10px ;
+}
+
+h3 {
+    color: blue;
+    text-align: left;
+    border-radius: 5px;
+    width: fit-content;
+    height: fit-content;
+    padding: 3px;
+    font-weight:bolder ;
+}
+form {
+    background-color:darkgreen;
+    width: fit-content;
+    height: fit-content;
+    padding: 5px;
+    color: antiquewhite;
+
+}
+
+input {
+    background-color: white;
+}
+
+textarea {
+    background-color: white;
+    border-width: 2px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(118,118,118), rgb(133,133,133));
+}
+
+#Contact_Type {
+    font-size: larger;
+    color:antiquewhite
+}
